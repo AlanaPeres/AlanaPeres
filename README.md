@@ -8,7 +8,7 @@ Eu amo estudar, aprender coisas novas me permite crescer e crescer é o meu maio
 
 Atualmente estou participando de um programa de formação de desenvolvedores FullStack na Imã Learning Place chamado Sharp Coders que tem me ajudado a evoluir muito tecnicamente.  
 
-Soft Skills 
+Estou aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
