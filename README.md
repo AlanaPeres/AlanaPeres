@@ -1,6 +1,6 @@
 ![Bem vindo(a) ao meu perfil](https://user-images.githubusercontent.com/108146481/211069271-5248b7ab-d3aa-43f8-9dd4-262040adeb3e.png)
 
-:wave: Meu nome é Alana, tenho 27 anos, casada e mãe de uma princesa de 8 anos. :family:
+:wave: Meu nome é Alana, tenho 28 anos, sou estudante de Análise e desenvolvimento de sistemas, casada e mãe de uma princesa de 9 anos. :family:
 
 Na pandemia nos mudamos para Garopaba a cidade mais linda do litoral de Santa Cataria e estamos construindo uma vida ótima. :ocean::sun_behind_small_cloud::parasol_on_ground:
 
