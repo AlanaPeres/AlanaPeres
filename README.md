@@ -4,9 +4,7 @@
 
 Na pandemia nos mudamos para Garopaba a cidade mais linda do litoral de Santa Cataria e estamos construindo uma vida ótima. :ocean::sun_behind_small_cloud::parasol_on_ground:
 
-Eu amo estudar, aprender coisas novas me permite crescer e crescer é o meu maior objetivo hoje. Meus sonhos são do tamanho do mundo e eu não vou parar.:dart::books:  
-
-Atualmente estou participando de um programa de formação de desenvolvedores FullStack na Imã Learning Place chamado Sharp Coders que tem me ajudado a evoluir muito tecnicamente.  
+Eu amo estudar, aprender coisas novas me permite crescer e crescer é o meu maior objetivo hoje. Meus sonhos são do tamanho do mundo e eu não vou parar.:dart::books:    
 
 Estou aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
