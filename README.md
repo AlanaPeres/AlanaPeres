@@ -1,22 +1,22 @@
-![Bem vindo(a) ao meu perfil](https://user-images.githubusercontent.com/108146481/211069271-5248b7ab-d3aa-43f8-9dd4-262040adeb3e.png)
+### Olá! Eu sou a Alana, fico feliz em te receber aqui. 👋🏽
+Sou estudante de Análise e Desenvolvimento de Sistemas e me formei como Desenvolvedora FullStack pela Imã Tech. Em paralelo aos estudos formais, estou aprimorando minhas habilidades na linguagem de programação Golang de maneira autodidata, me dedicando ao aprendizado contínuo.
 
-:wave: Olá! Sou a Alana, uma estudante de Análise e Desenvolvimento de Sistemas de 28 anos. Além de casada, sou mãe de uma princesa de 9 anos. Atualmente, estamos vivendo em Garopaba, a cidade mais linda do litoral de Santa Catarina, onde estamos construindo uma vida ótima, aproveitando o mar, o sol e a praia. :family: :ocean::sun_behind_small_cloud::parasol_on_ground:
+Minha jornada até aqui envolve uma transição de carreira significativa. Venho da área Comercial, onde pude aprimorar habilidades como comunicação, negociação, trabalho em equipe e gerenciamento de pessoas. O que me destaca profissionalmente é a minha empatia com o cliente, uma qualidade que considero vital para entender seus desejos e necessidades. Meu maior objetivo hoje é trazer toda essa bagagem para a área que ganhou meu coração, a tecnologia.
 
-Sou apaixonada por aprendizado e acredito que a busca por conhecimento é fundamental para o crescimento pessoal e profissional. Tenho sonhos do tamanho do mundo e estou determinada a alcançá-los. Meus objetivos são desafiadores e estou sempre disposta a ir além.:dart::books:    
 
-No campo da programação, possuo conhecimentos básicos em
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+![Alana GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanaPeres&show_icons=true&theme=dracula)
 
-Minha experiência mais recente foi como Monitora no projeto de desenvolvimento de uma aplicação utilizando C# e React. Nesse papel, fui parte de uma equipe colaborativa, onde contribuí desde o planejamento até a implementação e entrega final do projeto. Trabalhamos em conjunto, utilizando o Git para controle de versão, compartilhando e revisando código, resolvendo conflitos de merge e mantendo um histórico organizado de alterações.
+## Tecnologias
+<div style="display: inline_block"<br/>
+<img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
 
-A experiência de desenvolvimento em C# e React foi enriquecedora, permitindo-me adquirir habilidades práticas na criação de aplicações. Aprendi a escrever código em C# para implementar a lógica de negócios e a utilizar o React para criar interfaces de usuário dinâmicas e responsivas. Durante o projeto, enfrentamos desafios que exigiram tomada de decisões e resolução de problemas em equipe, sempre buscando soluções criativas e eficientes. Também fui responsável pela gestão de prazos e entrega, garantindo que as tarefas fossem concluídas dentro do cronograma estabelecido.
+## Contato
+[![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alana-peres/)
+[![Gmail]( https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alanalimaperes@gmail.com)
 
-Minhas competências incluem gestão de projetos, desenvolvimento de sistemas, trabalho em equipe, resolução de problemas, gestão de prazos e versionamento de código.
-
-Fique à vontade para explorar meu perfil e entre em contato se houver oportunidades de colaboração ou se quiser saber mais sobre minhas habilidades e experiências. Estou sempre em busca de novos desafios e crescimento profissional.
